@@ -4,7 +4,7 @@
 <div class="container">
     <div class="hero-mini p-4 p-md-5 mb-4 shadow-sm">
         <h2 class="fw-bold"><i class="fa-solid fa-gauge"></i> Dashboard Admin</h2>
-        <p class="mb-0">Kelola lapangan badminton dan reservasi UIN RF dari satu halaman.</p>
+        <p class="mb-0">Kelola lapangan futsal dan reservasi UIN RF dari satu halaman.</p>
     </div>
 
     <div class="row g-4 mb-4">

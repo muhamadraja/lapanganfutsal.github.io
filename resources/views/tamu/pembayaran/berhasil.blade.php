@@ -21,7 +21,7 @@
                     </h2>
 
                     <p class="text-muted">
-                        Reservasi lapangan badminton Anda
+                        Reservasi lapangan futsal Anda
                         telah berhasil dikonfirmasi.
                     </p>
 

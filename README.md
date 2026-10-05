@@ -1,11 +1,11 @@
-# UIN RF Badminton Reservation
+# UIN RF Futsal Reservation
 
-Aplikasi Laravel untuk reservasi lapangan badminton UIN Raden Fatah.
+Aplikasi Laravel untuk reservasi lapangan FUTSAL UIN Raden Fatah.
 
 ## Fitur
 - Login dan registrasi pengguna
 - Dashboard pengguna dan admin
-- Daftar dan detail lapangan badminton
+- Daftar dan detail lapangan futsal
 - Admin dapat menambah, mengubah, dan menghapus lapangan
 - Reservasi berdasarkan tanggal, jam mulai, dan jam selesai
 - Perhitungan harga otomatis berdasarkan durasi
@@ -32,15 +32,15 @@ php artisan serve
 
 4. Buka `http://127.0.0.1:8000`.
 
-> `migrate:fresh` menghapus tabel/data database lama. Gunakan ini karena struktur database aplikasi sudah diubah dari sistem hotel menjadi sistem lapangan badminton.
+> `migrate:fresh` menghapus tabel/data database lama. Gunakan ini karena struktur database aplikasi sudah diubah dari sistem hotel menjadi sistem lapangan futsal.
 
 ## Akun admin bawaan
 
 - Email: `admin@gmail.com`
 - Password: `admin123`
 
-Seeder membuat 3 contoh lapangan badminton.
+Seeder membuat 3 contoh lapangan futsal.
 
 ## Catatan
 
-Kode dan tampilan hotel lama sudah diganti dengan konsep lapangan badminton. Tabel database yang digunakan sekarang adalah `lapangans` dan `reservasis`.
+Kode dan tampilan hotel lama sudah diganti dengan konsep lapangan futsal. Tabel database yang digunakan sekarang adalah `lapangans` dan `reservasis`.

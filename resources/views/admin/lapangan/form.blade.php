@@ -1,6 +1,6 @@
 <div class="mb-3">
     <label class="form-label">Nama Lapangan</label>
-    <input type="text" name="nama_lapangan" class="form-control @error('nama_lapangan') is-invalid @enderror" value="{{ old('nama_lapangan',$lapangan->nama_lapangan ?? '') }}" placeholder="Contoh: Lapangan Badminton 1" required>
+    <input type="text" name="nama_lapangan" class="form-control @error('nama_lapangan') is-invalid @enderror" value="{{ old('nama_lapangan',$lapangan->nama_lapangan ?? '') }}" placeholder="Contoh: Lapangan Futsal 1" required>
     @error('nama_lapangan')<div class="invalid-feedback">{{ $message }}</div>@enderror
 </div>
 <div class="row">

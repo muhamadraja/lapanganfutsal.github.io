@@ -7,7 +7,7 @@
 ```
 {{-- HERO --}}
 <div class="hero-mini p-4 p-md-5 mb-4 shadow-sm">
-    <h2 class="fw-bold">Lapangan Badminton UIN RF</h2>
+    <h2 class="fw-bold">Lapangan futsal UIN RF</h2>
     <p class="mb-0">
         Pilih lapangan, cek fasilitas, lalu tentukan jadwal bermain Anda.
     </p>
@@ -107,7 +107,7 @@
 
                     {{-- DESKRIPSI --}}
                     <p class="text-muted small">
-                        {{ Str::limit($lapangan->deskripsi ?? 'Lapangan badminton UIN RF.',100) }}
+                        {{ Str::limit($lapangan->deskripsi ?? 'Lapangan futsal UIN RF.',100) }}
                     </p>
 
 

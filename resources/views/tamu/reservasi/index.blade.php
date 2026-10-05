@@ -13,7 +13,7 @@
         </h2>
 
         <p class="text-muted mb-0">
-            Pantau jadwal, pembayaran, dan status reservasi lapangan badminton Anda.
+            Pantau jadwal, pembayaran, dan status reservasi Anda.
         </p>
     </div>
 
@@ -288,7 +288,7 @@
                             </h5>
 
                             <p>
-                                Yuk pilih lapangan badminton
+                                Yuk pilih lapangan futsal
                                 dan tentukan jadwal bermain Anda.
                             </p>
 

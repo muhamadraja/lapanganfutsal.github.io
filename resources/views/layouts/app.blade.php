@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>{{ config('app.name', 'UIN RF Badminton Reservation') }}</title>
+    <title>{{ config('app.name', 'UIN RF FUTSAL Reservation') }}</title>
 
     <link href="https://fonts.bunny.net/css?family=Nunito:400,600,700,800" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -26,7 +26,7 @@
 <nav class="navbar navbar-expand-lg bg-white shadow-sm sticky-top">
     <div class="container">
         <a class="navbar-brand" href="{{ url('/') }}">
-            <i class="fa-solid fa-shuttlecock brand-icon"></i> UIN RF Badminton
+            <i class="fa-solid fa-shuttlecock brand-icon"></i> UIN RF FUTSAL
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNav">
             <span class="navbar-toggler-icon"></span>
@@ -92,8 +92,8 @@
 
 <footer class="bg-dark text-white text-center py-4 mt-5">
     <div class="container">
-        <strong>UIN RF Badminton Reservation</strong>
-        <div class="small text-white-50 mt-1">Sistem reservasi lapangan badminton UIN Raden Fatah</div>
+        <strong>UIN RF FUTSAL Reservation</strong>
+        <div class="small text-white-50 mt-1">Sistem reservasi lapangan futsal UIN Raden Fatah</div>
     </div>
 </footer>
 

@@ -28,7 +28,7 @@
                     <h6 class="fw-bold">Informasi</h6>
                     <p class="mb-2"><i class="fa-solid fa-users text-success"></i> Kapasitas: {{ $lapangan->kapasitas }} orang</p>
                     <p class="mb-2"><i class="fa-solid fa-list-check text-success"></i> Fasilitas: {{ $lapangan->fasilitas ?: 'Belum diisi' }}</p>
-                    <p class="text-muted">{{ $lapangan->deskripsi ?: 'Lapangan badminton untuk kegiatan olahraga civitas UIN Raden Fatah.' }}</p>
+                    <p class="text-muted">{{ $lapangan->deskripsi ?: 'Lapangan untuk kegiatan olahraga aktivitas UIN Raden Fatah.' }}</p>
                 </div>
             </div>
         </div>

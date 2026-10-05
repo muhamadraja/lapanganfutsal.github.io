@@ -4,7 +4,7 @@
 <div class="container">
     <div class="hero-mini p-4 p-md-5 mb-4 shadow-sm">
         <h2 class="fw-bold">Halo, {{ auth()->user()->name }}! 👋</h2>
-        <p class="mb-0">Selamat datang di UIN RF Badminton Reservation. Silakan pilih lapangan dan jadwal bermain.</p>
+        <p class="mb-0">Selamat datang di UIN RF FUTSAL Reservation. Silakan pilih lapangan dan jadwal bermain.</p>
     </div>
 
     <div class="row g-4 mb-4">

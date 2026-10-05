@@ -5,7 +5,7 @@
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
-                <div class="card-header">Masuk ke UIN RF Badminton Reservation</div>
+                <div class="card-header">Masuk ke UIN RF FUTSAL Reservation</div>
 
                 <div class="card-body">
                     <form method="POST" action="{{ route('login') }}">
